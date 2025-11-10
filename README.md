@@ -1,4 +1,3 @@
-# main_project
-trade platform
+# AI-Powered Trade Bot
 
-Modified the README to demonstrate an update.
+This project is an AI-powered trade bot designed to automate trading strategies using machine learning algorithms. The description has been updated with a more specific explanation for clarity.
